@@ -1,4 +1,4 @@
-<h1> 📋 Descripción del Proyecto </h1>
+<h1> 📋 Descripción del Proyecto - Desarrollo de Software</h1>
 
 
 Es un proyecto que integra HTML, CSS y Js
